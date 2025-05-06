@@ -32,7 +32,7 @@ Ce projet permet de traduire automatiquement les contenus de BookStack (livres, 
 - Python **3.9+**
 - `pip` installé (`python -m ensurepip`)
 - Docker (optionnel, pour exécuter LibreTranslate)
-- Accès à une instance BookStack + clé API
+- Accès à une instance BookStack + clé API (optionnel)
 - Git pour cloner le projet
 
 ## Installation
