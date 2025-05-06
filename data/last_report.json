@@ -1,0 +1,32 @@
+{
+  "book_id": 98,
+  "book_name": "Livre pour tester",
+  "target_langs": [
+    "de"
+  ],
+  "pages": [
+    {
+      "page_id": 5810,
+      "page_name": "Une seconde page de test",
+      "lang": "de",
+      "success": true,
+      "chapter_id": 134,
+      "chapter_name": "Un chapitre de test"
+    },
+    {
+      "page_id": 5809,
+      "page_name": "Une première page",
+      "lang": "de",
+      "success": true,
+      "chapter_id": 134,
+      "chapter_name": "Un chapitre de test"
+    }
+  ],
+  "summary": {
+    "de": {
+      "ok": 2,
+      "fail": 0,
+      "failures": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  bookstack-trad:
+    build: .
+    env_file: .env
+    volumes:
+      - ./db:/app/db
+      - ./translated:/app/translated
+    ports:
+      - "5050:5050"
+    command: python webhook/server.py 5050
+
+  # Optionnel : service de traduction local
+  # libretranslate:
+  #   image: libretranslate/libretranslate
+  #   ports:
+  #     - "5000:5000"

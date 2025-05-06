@@ -1,0 +1,428 @@
+{
+    "books": {
+        "20": {
+            "title": "Medulla Vue d'ensemble",
+            "slug": "medulla-vue-densemble",
+            "translations": {
+                "en": 227,
+                "de": 229
+            }
+        },
+        "100": {
+            "title": "Medulla Guide d'utilisation pas à pas",
+            "slug": "medulla-guide-dutilisation-pas-a-pas",
+            "translations": {
+                "de": 230,
+                "en": 228
+            }
+        },
+        "227": {
+            "title": "Medulla Overview",
+            "slug": "medulla-overview",
+            "translations": {
+                "de": 229
+            }
+        },
+        "228": {
+            "title": "Medulla Step by Step Guide",
+            "slug": "medulla-step-by-step-guide",
+            "translations": {
+                "de": 230
+            }
+        },
+        "229": {
+            "title": "Medulla Übersicht",
+            "slug": "medulla-ubersicht",
+            "translations": {}
+        },
+        "230": {
+            "title": "Medulla Schritt für Schritt Anleitung",
+            "slug": "medulla-schritt-fur-schritt-anleitung",
+            "translations": {}
+        }
+    },
+    "chapters": {
+        "53": {
+            "title": "Chapitre 2 : Introduction",
+            "book_id": 20,
+            "translations": {
+                "en": 317,
+                "de": 336
+            }
+        },
+        "54": {
+            "title": "Chapitre 3 : Interface principale",
+            "book_id": 20,
+            "translations": {
+                "en": 318,
+                "de": 337
+            }
+        },
+        "55": {
+            "title": "Chapitre 4 : Modules",
+            "book_id": 20,
+            "translations": {
+                "en": 338,
+                "de": 338,
+                "fr": 138
+            }
+        },
+        "56": {
+            "title": "Chapitre 5 : Administration",
+            "book_id": 20,
+            "translations": {
+                "en": 320,
+                "de": 339
+            }
+        },
+        "314": {
+            "title": "Chapitre 1 : Table Des Matière",
+            "book_id": 20,
+            "translations": {
+                "fr": 315,
+                "en": 335,
+                "de": 354
+            }
+        },
+        "135": {
+            "title": "Chapitre 2 : Premiers pas dans Medulla",
+            "book_id": 100,
+            "translations": {
+                "en": 322,
+                "de": 341
+            }
+        },
+        "136": {
+            "title": "Chapitre 3 : Kiosk",
+            "book_id": 100,
+            "translations": {
+                "en": 342,
+                "de": 342
+            }
+        },
+        "137": {
+            "title": "Chapitre 4 : Utilisateurs",
+            "book_id": 100,
+            "translations": {
+                "en": 324,
+                "de": 343
+            }
+        },
+        "138": {
+            "title": "Chapitre 6 : Groupes",
+            "book_id": 100,
+            "translations": {
+                "en": 325,
+                "de": 344
+            }
+        },
+        "139": {
+            "title": "Chapitre 5 : Ordinateurs",
+            "book_id": 100,
+            "translations": {
+                "en": 345,
+                "de": 345
+            }
+        },
+        "140": {
+            "title": "Chapitre 6 : Imaging I",
+            "book_id": 100,
+            "translations": {}
+        },
+        "141": {
+            "title": "Chapitre 8 : Packages",
+            "book_id": 100,
+            "translations": {
+                "en": 328,
+                "de": 347
+            }
+        },
+        "142": {
+            "title": "Chapitre 9 : Audit",
+            "book_id": 100,
+            "translations": {
+                "en": 329,
+                "de": 348
+            }
+        },
+        "143": {
+            "title": "Chapitre 10 : Mises à Jour",
+            "book_id": 100,
+            "translations": {
+                "en": 330,
+                "de": 349
+            }
+        },
+        "144": {
+            "title": "Chapitre 11 : Sauvegarde",
+            "book_id": 100,
+            "translations": {
+                "de": 350
+            }
+        },
+        "145": {
+            "title": "Chapitre 12 : Historique",
+            "book_id": 100,
+            "translations": {
+                "en": 332,
+                "de": 351
+            }
+        },
+        "146": {
+            "title": "Chapitre 13 : Admin",
+            "book_id": 100,
+            "translations": {
+                "en": 352
+            }
+        },
+        "312": {
+            "title": "Chapitre 7 : Imaging II",
+            "book_id": 100,
+            "translations": {
+                "de": 327,
+                "en": 334
+            }
+        },
+        "315": {
+            "title": "Chapitre 1 : Table Des Matière",
+            "book_id": 100,
+            "translations": {
+                "en": 335,
+                "de": 354
+            }
+        },
+        "317": {
+            "title": "Chapter 2: Introduction",
+            "book_id": 227,
+            "translations": {
+                "de": 336
+            }
+        },
+        "318": {
+            "title": "Chapter 3: Main interface",
+            "book_id": 227,
+            "translations": {
+                "de": 337
+            }
+        },
+        "319": {
+            "title": "Chapter 4: Modules",
+            "book_id": 227,
+            "translations": {
+                "de": 338,
+                "en": 338
+            }
+        },
+        "320": {
+            "title": "Section 5: Administration",
+            "book_id": 227,
+            "translations": {
+                "de": 339
+            }
+        },
+        "321": {
+            "title": "Chapter 1: Table of Contents",
+            "book_id": 227,
+            "translations": {
+                "en": 335,
+                "de": 354
+            }
+        },
+        "322": {
+            "title": "Chapter 2: First steps in Medulla",
+            "book_id": 228,
+            "translations": {
+                "de": 341
+            }
+        },
+        "323": {
+            "title": "Chapter 3: Kiosk",
+            "book_id": 228,
+            "translations": {
+                "de": 342,
+                "en": 342
+            }
+        },
+        "324": {
+            "title": "Chapter 4: Users",
+            "book_id": 228,
+            "translations": {
+                "de": 343
+            }
+        },
+        "325": {
+            "title": "Chapter 6: Groups",
+            "book_id": 228,
+            "translations": {
+                "de": 344
+            }
+        },
+        "326": {
+            "title": "Chapter 5: Computers",
+            "book_id": 228,
+            "translations": {
+                "de": 345,
+                "en": 345
+            }
+        },
+        "327": {
+            "title": "Chapter 6: Imagining I",
+            "book_id": 228,
+            "translations": {}
+        },
+        "328": {
+            "title": "Chapter 8: Packages",
+            "book_id": 228,
+            "translations": {
+                "de": 347
+            }
+        },
+        "329": {
+            "title": "Section 9: Audit",
+            "book_id": 228,
+            "translations": {
+                "de": 348
+            }
+        },
+        "330": {
+            "title": "Chapter 10: Updates",
+            "book_id": 228,
+            "translations": {
+                "de": 349
+            }
+        },
+        "331": {
+            "title": "Chapter 11: Safeguarding",
+            "book_id": 228,
+            "translations": {
+                "de": 350
+            }
+        },
+        "332": {
+            "title": "Chapter 12: Background",
+            "book_id": 228,
+            "translations": {
+                "de": 351
+            }
+        },
+        "333": {
+            "title": "Chapter 13: Admin",
+            "book_id": 228,
+            "translations": {
+                "de": 352,
+                "en": 352
+            }
+        },
+        "334": {
+            "title": "Chapter 7: Imagining II",
+            "book_id": 228,
+            "translations": {}
+        },
+        "335": {
+            "title": "Chapter 1: Table of Contents",
+            "book_id": 228,
+            "translations": {
+                "de": 354
+            }
+        },
+        "336": {
+            "title": "Kapitel 2: Einführung",
+            "book_id": 229,
+            "translations": {}
+        },
+        "337": {
+            "title": "Kapitel 3: Hauptschnittstelle",
+            "book_id": 229,
+            "translations": {}
+        },
+        "338": {
+            "title": "Kapitel 4: Module",
+            "book_id": 229,
+            "translations": {}
+        },
+        "339": {
+            "title": "Abschnitt 5: Verwaltung",
+            "book_id": 229,
+            "translations": {}
+        },
+        "340": {
+            "title": "Kapitel 1: Inhaltsverzeichnis",
+            "book_id": 229,
+            "translations": {
+                "de": 354
+            }
+        },
+        "341": {
+            "title": "Kapitel 2: Erste Schritte in Medulla",
+            "book_id": 230,
+            "translations": {}
+        },
+        "342": {
+            "title": "Kapitel 3: Kiosk",
+            "book_id": 230,
+            "translations": {}
+        },
+        "343": {
+            "title": "Kapitel 4: Benutzer",
+            "book_id": 230,
+            "translations": {}
+        },
+        "344": {
+            "title": "Kapitel 6: Gruppen",
+            "book_id": 230,
+            "translations": {}
+        },
+        "345": {
+            "title": "Kapitel 5: Computer",
+            "book_id": 230,
+            "translations": {}
+        },
+        "346": {
+            "title": "Kapitel 6: Imagination I",
+            "book_id": 230,
+            "translations": {}
+        },
+        "347": {
+            "title": "Kapitel 8: Pakete",
+            "book_id": 230,
+            "translations": {}
+        },
+        "348": {
+            "title": "Abschnitt 9: Prüfung",
+            "book_id": 230,
+            "translations": {}
+        },
+        "349": {
+            "title": "Kapitel 10: Aktualisierungen",
+            "book_id": 230,
+            "translations": {}
+        },
+        "350": {
+            "title": "Kapitel 11: Schutz",
+            "book_id": 230,
+            "translations": {}
+        },
+        "351": {
+            "title": "Kapitel 12: Hintergrund",
+            "book_id": 230,
+            "translations": {}
+        },
+        "352": {
+            "title": "Kapitel 13: Admin",
+            "book_id": 230,
+            "translations": {}
+        },
+        "353": {
+            "title": "Kapitel 7: Imagination II",
+            "book_id": 230,
+            "translations": {}
+        },
+        "354": {
+            "title": "Kapitel 1: Inhaltsverzeichnis",
+            "book_id": 230,
+            "translations": {}
+        }
+    },
+    "pages": {},
+    "pages_by_id": {}
+}
